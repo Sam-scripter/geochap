@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "713544044208",
+    "firebase_url": "https://rada-logistics-95953-default-rtdb.firebaseio.com",
+    "project_id": "rada-logistics-95953",
+    "storage_bucket": "rada-logistics-95953.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713544044208:android:11068bb2b52418e387b575",
+        "android_client_info": {
+          "package_name": "com.example.rada_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713544044208-24pjdnk88fbn59rl9fgv4oo37cgu8nnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLUHwnihLlb_7IIoqpmLxoDgJgb5ef_Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713544044208-24pjdnk88fbn59rl9fgv4oo37cgu8nnm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713544044208-02g8gmc24dpronf10d1um06d7jhmnlv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.radaRider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
